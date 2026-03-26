@@ -100,6 +100,4 @@ jupyter lab
 | `Programming_assignment_2.ipynb` | Kilometers to miles |
 | `Programming _Assignment_3.ipynb` | Positive/negative/zero check |
 
-## License
 
-No license file is currently included in this repository. If you plan to share or reuse the material publicly, consider adding one.
